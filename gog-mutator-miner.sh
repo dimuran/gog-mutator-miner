@@ -25,7 +25,7 @@ gameCombo='{"product_ids":["1207660413","1207658806","1207660353"],"mutator_coun
 #file containing the list of the possible games
 #a row must consist of the game name and the release date
 #get the current one from http://www.gog.com/forum/general/mutator_promo_how_to_get_a_clue_about_mutator_games/page1
-dataFile='release_dates_r2.txt'
+dataFile='release_dates_r3.txt'
 
 #names of the games you want
 desiredGames=("Unrest" "Guacamelee" "Alcatraz" "Federation" "Smugglers" "Vertical")
